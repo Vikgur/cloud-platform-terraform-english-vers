@@ -5,7 +5,7 @@ terraform.tfstate
 terraform.tfstate.*
 crash.log
 
-# tfvars (secrets and env-values)
+# tfvars (секреты и env-значения)
 *.tfvars
 *.tfvars.json
 
